@@ -3,8 +3,6 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas\
 🔐 Interessado em Cibersegurança, Desenvolvimento e Tecnologia
 
----
-
 #### 🚀 Tecnologias que estou estudando
 
 - 💻 **Linguagens**: Python, Java, Javascript C 
@@ -12,15 +10,11 @@
 - 🛡️ **Cibersegurança**: Conceitos básicos, Linux, Redes
 - ⚙️ **Ferramentas**: Git, GitHub, VS Code
 
----
-
 #### 📚 Certificações em andamento
 
 Fundamentos de Redes ( Cisco)
 
 CIbersegurança Junior ( Cisco)
-
----
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
