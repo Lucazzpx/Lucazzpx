@@ -49,6 +49,5 @@ CIbersegurança Junior ( Cisco)
 </picture>
 
 ###
----
 
 ⭐ Obrigado por visitar meu perfil!
